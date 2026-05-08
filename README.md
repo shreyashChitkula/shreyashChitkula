@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shreyashChitkula
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning programming and development
+- 👀 I’m interested in computer vision
 - 💞️ I’m looking to collaborate on developing new projects,contributing to open source projects and parcticipate in different hackathons,etc...
 - 📫 How to reach me 
 - mail to schitkula@gmail.com
